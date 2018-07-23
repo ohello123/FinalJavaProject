@@ -22,11 +22,11 @@ import javax.swing.SwingUtilities;
 import javax.swing.Timer;
 import javax.swing.JTextField;
 import javax.swing.JTextArea;
-
+//test
 public class main {
 	private static JTextField textField;
 	
-	//POSSIBLE FUTURE UPDATES; 
+	//POSSIBLE FUTURE UPDATES; //test
 	//
 	//--------core-------
 	//-refresh questions from text file(read in new questions after drawOne set false, change questionOne from next read 
